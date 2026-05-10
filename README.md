@@ -1,5 +1,5 @@
 FlashCards - Mobile Learning App
-🇹🇷 Proje Hakkında
+ Proje Hakkında
 
 FlashCards, kullanıcıların yeni bilgiler öğrenmesini ve kelime ezberlemesini kolaylaştıran, React Native ve Expo kullanılarak geliştirilmiş mobil bir kart (flashcard) uygulamasıdır.
 
@@ -11,7 +11,7 @@ Kategori bazlı filtreleme.
 
 Kullanıcı dostu arayüz.
 
-🇬🇧 About Project
+ About Project
 
 FlashCards is a mobile flashcard application developed with React Native and Expo, designed to simplify learning and vocabulary memorization.
 
