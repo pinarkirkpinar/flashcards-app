@@ -23,7 +23,7 @@ Category-based filtering.
 
 User-friendly interface.
 
-🛠 Teknolojiler / Technologies
+ Teknolojiler / Technologies
 
 React Native & Expo
 
